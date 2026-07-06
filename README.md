@@ -39,6 +39,7 @@ Each page focuses on a different business area while interactive filters allow u
 ---
 
 # 1️⃣ Executive Summary
+![Executive Summary Dashboard](Executive%20Summary.png.png)
 
 ## 📄 Page Overview
 
@@ -119,6 +120,7 @@ This detailed table displays high-value customers along with their deposits, loa
 ---
 
 # 2️⃣ Customer Insights
+![Customer Insights Dashboard](Customer%20Insight.png.png)
 
 ## 📄 Page Overview
 
@@ -199,6 +201,7 @@ The treemap compares customer counts across different nationalities.
 ---
 
 # 3️⃣ Financial Performance
+![Financial Performance Dashboard](Financial%20Performance.png.png)
 
 ## 📄 Page Overview
 
